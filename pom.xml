@@ -82,6 +82,9 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<url>git://github.com/nfrankel/Spring-Integration.git</url>
+	</scm>
 	<organization>
 		<name>Nicolas Fränkel</name>
 		<url>http://frankel.ch/</url>
