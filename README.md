@@ -1,11 +1,11 @@
+
 1\. Goal
 =======
-
 Spring Integration is an add-on for Vaadin that let you use Spring and its dependency injection mechanism in Vaadin painlessly.
 
 
 2\. Use
-======
+=======
 The following steps are necessary:
 
 - use the SpringApplicationServlet as the Vaadin servlet
@@ -19,7 +19,7 @@ The following steps are necessary:
 Spring Integration is of course dependent on Spring (web module) and Vaadin.
 
 4\. Example
-=========
+===========
 
 A typical web.xml would look like this:
 
