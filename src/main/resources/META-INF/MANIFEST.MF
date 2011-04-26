@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Build-Jdk: ${java.version}
+Implementation-Title: ${project.name}
+Implementation-Version: ${project.version}
+Implementation-Vendor: ${project.organization.name}
+Vaadin-Addon: ${build.finalName}/${build.finalName}.${project.packaging}
+Vaadin-Package-Version: 1
+
